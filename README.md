@@ -1,2 +1,6 @@
 # K-NN
-Groupe : binôme
+
+### Groupe : binôme
+
+- Ayoub ETOULLALI
+- Salah Eddine Zkara
